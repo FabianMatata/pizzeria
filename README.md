@@ -1,7 +1,7 @@
 ## Project Name
 Pizzeria
 ## Project Description
-The above 
+The above project is about
 ## Project Author
 Fabian Matata
 ## Project Live Link
