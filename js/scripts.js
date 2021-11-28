@@ -9,7 +9,6 @@ function Address(streetAddress, city, state) {
 
 //User Interface Logic
 $(document).ready(function(event) {
-    /////Landing Page Btns
     $("#pickup-btn").click(function() {
         $("#order-content").show();
         $("#landing-content").hide();
