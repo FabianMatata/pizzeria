@@ -4,4 +4,4 @@
 
 ## Project Live Link
 
-## Installation 
+## Installation Instructions
