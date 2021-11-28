@@ -2,7 +2,7 @@
 Pizzeria
 ## Project Description
 ## Project Author
-Fabian
+Fabian Matata
 ## Project Live Link
 
 ## Installation Instructions
