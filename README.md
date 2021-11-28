@@ -6,3 +6,4 @@ Fabian Matata
 ## Project Live Link
 
 ## Installation Instructions
+## License
